@@ -27,8 +27,6 @@ export default function TicketForm() {
       priority,
     };
 
-    console.log(ticketData);
-
     clearForm();
   };
 
